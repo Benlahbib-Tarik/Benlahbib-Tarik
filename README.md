@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am an Aspiring Junior Software Engineer passionate about coding and eager to grow professionally. 🚀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benlahbib-Tarik)](https://github.com/anuraghazra/github-readme-stats).
 
