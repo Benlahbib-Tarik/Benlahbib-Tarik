@@ -4,8 +4,6 @@ I am an Aspiring Junior Software Engineer passionate about coding and eager to g
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benlahbib-Tarik)](https://github.com/anuraghazra/github-readme-stats).
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarik benlahbib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarik benlahbib" height="30" width="40" /></a>
